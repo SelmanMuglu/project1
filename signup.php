@@ -9,5 +9,5 @@
     <input type="password" id="password" placeholder="Password" required><br>
     <input type="password" id="password" placeholder="Repeat Password" required><br>
     <input type="submit" value="signup"><br>
-    <a href="index.php">you have an account?</a><br>
+    <a href="index.php">you have an account</a><br>
 </form>
