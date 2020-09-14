@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b082efb5-dca3-4068-8f7c-1724a6da7927" name="Default Changelist" comment="Week 1 Les 2 ~ Forms&#10;&#10;Er is een Login pagina gemaakt, Een Sign up pagina en Wachtwoord vergeten pagina">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lostpsw.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+    <list default="true" id="b082efb5-dca3-4068-8f7c-1724a6da7927" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sql_statements.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +61,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599406926337</updated>
-      <workItem from="1599406927539" duration="3081000" />
+      <workItem from="1599406927539" duration="3854000" />
+      <workItem from="1600082580766" duration="480000" />
     </task>
+    <task id="LOCAL-00001" summary="Week 1 Les 2 ~ Forms&#10;&#10;Er is een Login pagina gemaakt, Een Sign up pagina en Wachtwoord vergeten pagina">
+      <created>1599411285892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599411285892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week 1 Les 2 ~ Forms&#10;&#10;Er is een Login pagina gemaakt, Een Sign up pagina en Wachtwoord vergeten pagina">
+      <created>1599411368754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599411368754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Week 1 Les 2 ~ Forms&#10;&#10;Er is een Login pagina gemaakt, Een Sign up pagina en Wachtwoord vergeten pagina">
+      <created>1599411390650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599411390650</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
