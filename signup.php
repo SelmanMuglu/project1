@@ -1,3 +1,6 @@
+<html>
+
+<body>
 <h4>Create an account</h4>
 
 <form id="signup">
@@ -11,3 +14,5 @@
     <input type="submit" value="signup"><br>
     <a href="index.php">you have an account</a><br>
 </form>
+</body>
+</html>
